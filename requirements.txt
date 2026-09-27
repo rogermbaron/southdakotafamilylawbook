@@ -1,0 +1,2 @@
+# No third-party Python packages are required.
+# The site uses Python's standard-library HTTP server and SQLite.

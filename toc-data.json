@@ -1,0 +1,1381 @@
+[
+  {
+    "level": "chapter",
+    "marker": "I",
+    "title": "MARRIAGE",
+    "printed_start": "1",
+    "chapter": "I"
+  },
+  {
+    "level": "section",
+    "marker": "A",
+    "title": "The \"Common Law Marriage\"",
+    "printed_start": "1",
+    "chapter": "I"
+  },
+  {
+    "level": "section",
+    "marker": "B",
+    "title": "The \"Migratory\" Common Law Marriage",
+    "printed_start": "8",
+    "chapter": "I"
+  },
+  {
+    "level": "section",
+    "marker": "C",
+    "title": "Statutory Requisites",
+    "printed_start": "11",
+    "chapter": "I"
+  },
+  {
+    "level": "section",
+    "marker": "D",
+    "title": "Selected Relevant Statutes",
+    "printed_start": "13",
+    "chapter": "I"
+  },
+  {
+    "level": "chapter",
+    "marker": "II",
+    "title": "PUTATIVE SPOUSE, PALIMONY, and RELATED ISSUES",
+    "printed_start": "17",
+    "chapter": "II"
+  },
+  {
+    "level": "chapter",
+    "marker": "III",
+    "title": "PATERNITY AND THE PRESUMPTION OF LEGITIMACY",
+    "printed_start": "31",
+    "chapter": "III"
+  },
+  {
+    "level": "section",
+    "marker": "A",
+    "title": "The \"Presumption of Legitimacy\"",
+    "printed_start": "32",
+    "chapter": "III"
+  },
+  {
+    "level": "section",
+    "marker": "B",
+    "title": "Blood and Tissue Tests",
+    "printed_start": "34",
+    "chapter": "III"
+  },
+  {
+    "level": "section",
+    "marker": "C",
+    "title": "Selected Relevant Statutory Provisions",
+    "printed_start": "35",
+    "chapter": "III"
+  },
+  {
+    "level": "section",
+    "marker": "D",
+    "title": "Involuntary Proceedings",
+    "printed_start": "40",
+    "chapter": "III"
+  },
+  {
+    "level": "section",
+    "marker": "E",
+    "title": "Voluntary Proceedings",
+    "printed_start": "52",
+    "chapter": "III"
+  },
+  {
+    "level": "chapter",
+    "marker": "IV",
+    "title": "CONSTITUTIONAL CONSIDERATIONS",
+    "printed_start": "59",
+    "chapter": "IV"
+  },
+  {
+    "level": "section",
+    "marker": "A",
+    "title": "The Right to Marry and Equal Protection",
+    "printed_start": "59",
+    "chapter": "IV"
+  },
+  {
+    "level": "section",
+    "marker": "B",
+    "title": "Full Faith and Credit",
+    "printed_start": "74",
+    "chapter": "IV"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Non-Custodial Aspects",
+    "printed_start": "74",
+    "chapter": "IV"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Custody",
+    "printed_start": "81",
+    "chapter": "IV"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "Tribal Orders",
+    "printed_start": "85",
+    "chapter": "IV"
+  },
+  {
+    "level": "section",
+    "marker": "C",
+    "title": "The Court’s Jurisdiction over the Person of the Defendant",
+    "printed_start": "99",
+    "chapter": "IV"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Issues of Status",
+    "printed_start": "99",
+    "chapter": "IV"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Personal Jurisdiction",
+    "printed_start": "101",
+    "chapter": "IV"
+  },
+  {
+    "level": "section",
+    "marker": "D",
+    "title": "Due Process",
+    "printed_start": "109",
+    "chapter": "IV"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Reasonable Notice",
+    "printed_start": "109",
+    "chapter": "IV"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Opportunity to be Heard",
+    "printed_start": "113",
+    "chapter": "IV"
+  },
+  {
+    "level": "chapter",
+    "marker": "V",
+    "title": "THE UCCJEA & PKPA — NECESSARY CONSTRAINTS ON JURISDICTION . .",
+    "printed_start": "125",
+    "chapter": "V"
+  },
+  {
+    "level": "section",
+    "marker": "A",
+    "title": "Background",
+    "printed_start": "125",
+    "chapter": "V"
+  },
+  {
+    "level": "section",
+    "marker": "B",
+    "title": "The Uniform Child Custody Jurisdiction Act (“ UCCJA” )",
+    "printed_start": "130",
+    "chapter": "V"
+  },
+  {
+    "level": "section",
+    "marker": "C",
+    "title": "Preemption by the Parental Kidnaping Prevention Act (“ PKPA” )",
+    "printed_start": "155",
+    "chapter": "V"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "The PKPA -- a Federal Mandate",
+    "printed_start": "155",
+    "chapter": "V"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Initial Jurisdiction",
+    "printed_start": "159",
+    "chapter": "V"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "Modification Jurisdiction",
+    "printed_start": "161",
+    "chapter": "V"
+  },
+  {
+    "level": "subsection",
+    "marker": "4",
+    "title": "Custody fight marks 10 years (news article)",
+    "printed_start": "168",
+    "chapter": "V"
+  },
+  {
+    "level": "subsection",
+    "marker": "5",
+    "title": "Emergency Jurisdiction",
+    "printed_start": "169",
+    "chapter": "V"
+  },
+  {
+    "level": "subsection",
+    "marker": "6",
+    "title": "Review",
+    "printed_start": "172",
+    "chapter": "V"
+  },
+  {
+    "level": "section",
+    "marker": "D",
+    "title": "Miscellaneous Comments",
+    "printed_start": "173",
+    "chapter": "V"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Statutory Cessation of Jurisdiction",
+    "printed_start": "173",
+    "chapter": "V"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Relocation Laws",
+    "printed_start": "173",
+    "chapter": "V"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "International Child Custody Disputes",
+    "printed_start": "174",
+    "chapter": "V"
+  },
+  {
+    "level": "section",
+    "marker": "E",
+    "title": "Uniform Child Abduction Prevention Act",
+    "printed_start": "177",
+    "chapter": "V"
+  },
+  {
+    "level": "chapter",
+    "marker": "VI",
+    "title": "ANNULMENTS",
+    "printed_start": "179",
+    "chapter": "VI"
+  },
+  {
+    "level": "section",
+    "marker": "A",
+    "title": "Introductory Comments",
+    "printed_start": "179",
+    "chapter": "VI"
+  },
+  {
+    "level": "section",
+    "marker": "B",
+    "title": "Physical Incapacity",
+    "printed_start": "180",
+    "chapter": "VI"
+  },
+  {
+    "level": "section",
+    "marker": "C",
+    "title": "Fraud",
+    "printed_start": "182",
+    "chapter": "VI"
+  },
+  {
+    "level": "section",
+    "marker": "D",
+    "title": "Underage",
+    "printed_start": "187",
+    "chapter": "VI"
+  },
+  {
+    "level": "section",
+    "marker": "E",
+    "title": "Effects of an Annulment",
+    "printed_start": "189",
+    "chapter": "VI"
+  },
+  {
+    "level": "chapter",
+    "marker": "VII",
+    "title": "DIVORCE",
+    "printed_start": "191",
+    "chapter": "VII"
+  },
+  {
+    "level": "section",
+    "marker": "A",
+    "title": "Grounds",
+    "printed_start": "192",
+    "chapter": "VII"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "The Notion of “ Fault”",
+    "printed_start": "192",
+    "chapter": "VII"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Adultery",
+    "printed_start": "193",
+    "chapter": "VII"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "Extreme Cruelty",
+    "printed_start": "197",
+    "chapter": "VII"
+  },
+  {
+    "level": "subsection",
+    "marker": "4",
+    "title": "Other Fault Grounds",
+    "printed_start": "211",
+    "chapter": "VII"
+  },
+  {
+    "level": "subsection",
+    "marker": "5",
+    "title": "An Additional Ground (Fault or Non-Fault?)",
+    "printed_start": "211",
+    "chapter": "VII"
+  },
+  {
+    "level": "subsection",
+    "marker": "6",
+    "title": "Irreconcilable Differences",
+    "printed_start": "212",
+    "chapter": "VII"
+  },
+  {
+    "level": "section",
+    "marker": "B",
+    "title": "The Prospect of “ Fault” Notwithstanding its Relevance as a “ Ground” for Divorce",
+    "printed_start": "220",
+    "chapter": "VII"
+  },
+  {
+    "level": "section",
+    "marker": "C",
+    "title": "Defenses",
+    "printed_start": "225",
+    "chapter": "VII"
+  },
+  {
+    "level": "section",
+    "marker": "D",
+    "title": "Attorney’s Fees",
+    "printed_start": "230",
+    "chapter": "VII"
+  },
+  {
+    "level": "section",
+    "marker": "E",
+    "title": "Residency, Cooling Off, Venue",
+    "printed_start": "235",
+    "chapter": "VII"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Residency Requirement — Uniquely Developed in South Dakota",
+    "printed_start": "235",
+    "chapter": "VII"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Cooling Off Period",
+    "printed_start": "238",
+    "chapter": "VII"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "Venue",
+    "printed_start": "240",
+    "chapter": "VII"
+  },
+  {
+    "level": "chapter",
+    "marker": "VIII",
+    "title": "CUSTODY",
+    "printed_start": "243",
+    "chapter": "VIII"
+  },
+  {
+    "level": "section",
+    "marker": "A",
+    "title": "Introductory Comments and Relevant Statutes",
+    "printed_start": "243",
+    "chapter": "VIII"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Current South Dakota Statutes",
+    "printed_start": "245",
+    "chapter": "VIII"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "A Word About “ Parens Patriae”",
+    "printed_start": "251",
+    "chapter": "VIII"
+  },
+  {
+    "level": "section",
+    "marker": "B",
+    "title": "The “ Best Interests of the Child”",
+    "printed_start": "253",
+    "chapter": "VIII"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Traditional Applications",
+    "printed_start": "253",
+    "chapter": "VIII"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Parental Misconduct",
+    "printed_start": "264",
+    "chapter": "VIII"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "Siblings",
+    "printed_start": "271",
+    "chapter": "VIII"
+  },
+  {
+    "level": "section",
+    "marker": "C",
+    "title": "Primary Caretaker",
+    "printed_start": "276",
+    "chapter": "VIII"
+  },
+  {
+    "level": "section",
+    "marker": "D",
+    "title": "Relocations Out of State and Country",
+    "printed_start": "291",
+    "chapter": "VIII"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Uniform Child Abduction Prevention Act",
+    "printed_start": "291",
+    "chapter": "VIII"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Relocations at the Time of the Divorce",
+    "printed_start": "292",
+    "chapter": "VIII"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "Post Divorce Relocations",
+    "printed_start": "293",
+    "chapter": "VIII"
+  },
+  {
+    "level": "section",
+    "marker": "E",
+    "title": "Non-parents (Grandparents and others)",
+    "printed_start": "297",
+    "chapter": "VIII"
+  },
+  {
+    "level": "section",
+    "marker": "F",
+    "title": "Visitation Rights",
+    "printed_start": "317",
+    "chapter": "VIII"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Parents",
+    "printed_start": "317",
+    "chapter": "VIII"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Nonparents (Grandparents and Others)",
+    "printed_start": "328",
+    "chapter": "VIII"
+  },
+  {
+    "level": "section",
+    "marker": "G",
+    "title": "Joint Custody",
+    "printed_start": "335",
+    "chapter": "VIII"
+  },
+  {
+    "level": "chapter",
+    "marker": "IX",
+    "title": "CHILD SUPPORT",
+    "printed_start": "347",
+    "chapter": "IX"
+  },
+  {
+    "level": "section",
+    "marker": "A",
+    "title": "The Obligation and its Boundaries",
+    "printed_start": "347",
+    "chapter": "IX"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Initiation of the Obligation",
+    "printed_start": "347",
+    "chapter": "IX"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Obligor -- Who is an Obligor?",
+    "printed_start": "349",
+    "chapter": "IX"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "Termination of the Obligation",
+    "printed_start": "356",
+    "chapter": "IX"
+  },
+  {
+    "level": "subsection",
+    "marker": "4",
+    "title": "The Nebulous Zone Where Parties Can Agree, but the Court Cannot Order",
+    "printed_start": "362",
+    "chapter": "IX"
+  },
+  {
+    "level": "section",
+    "marker": "B",
+    "title": "Child Support Guidelines",
+    "printed_start": "365",
+    "chapter": "IX"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "History and Introduction",
+    "printed_start": "365",
+    "chapter": "IX"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Referees/Review of Decisions",
+    "printed_start": "373",
+    "chapter": "IX"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "The Current Statutory Guidelines",
+    "printed_start": "374",
+    "chapter": "IX"
+  },
+  {
+    "level": "subsection",
+    "marker": "4",
+    "title": "Study Questions",
+    "printed_start": "401",
+    "chapter": "IX"
+  },
+  {
+    "level": "subsection",
+    "marker": "5",
+    "title": "Application of the Guidelines",
+    "printed_start": "403",
+    "chapter": "IX"
+  },
+  {
+    "level": "subsection",
+    "marker": "6",
+    "title": "Social Security Payments",
+    "printed_start": "421",
+    "chapter": "IX"
+  },
+  {
+    "level": "chapter",
+    "marker": "X",
+    "title": "DIVISION OF PROPERTY",
+    "printed_start": "427",
+    "chapter": "X"
+  },
+  {
+    "level": "section",
+    "marker": "A",
+    "title": "Introductory Comments — Relevant Statutes",
+    "printed_start": "427",
+    "chapter": "X"
+  },
+  {
+    "level": "section",
+    "marker": "B",
+    "title": "The “ Marital-Separate” Distinction",
+    "printed_start": "429",
+    "chapter": "X"
+  },
+  {
+    "level": "section",
+    "marker": "C",
+    "title": "Fault as a Consideration",
+    "printed_start": "442",
+    "chapter": "X"
+  },
+  {
+    "level": "section",
+    "marker": "D",
+    "title": "Equitable Division",
+    "printed_start": "444",
+    "chapter": "X"
+  },
+  {
+    "level": "section",
+    "marker": "E",
+    "title": "Retirement Plans",
+    "printed_start": "461",
+    "chapter": "X"
+  },
+  {
+    "level": "section",
+    "marker": "F",
+    "title": "The Problem of “ Omitted Assets”",
+    "printed_start": "483",
+    "chapter": "X"
+  },
+  {
+    "level": "chapter",
+    "marker": "XI",
+    "title": "“ CROSSOVER ISSUES” — PROPERTY AND ALIMONY",
+    "printed_start": "491",
+    "chapter": "XI"
+  },
+  {
+    "level": "chapter",
+    "marker": "XII",
+    "title": "ALIMONY",
+    "printed_start": "505",
+    "chapter": "XII"
+  },
+  {
+    "level": "section",
+    "marker": "A",
+    "title": "Introduction — Relevant Statutes",
+    "printed_start": "505",
+    "chapter": "XII"
+  },
+  {
+    "level": "section",
+    "marker": "B",
+    "title": "Traditional Alimony",
+    "printed_start": "506",
+    "chapter": "XII"
+  },
+  {
+    "level": "section",
+    "marker": "C",
+    "title": "Hybrid Forms of Alimony",
+    "printed_start": "521",
+    "chapter": "XII"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Lump Sum Alimony",
+    "printed_start": "521",
+    "chapter": "XII"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Rehabilitative, Reimbursement, & Restitutional Alimony",
+    "printed_start": "522",
+    "chapter": "XII"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "“ Necessaries of Life”",
+    "printed_start": "536",
+    "chapter": "XII"
+  },
+  {
+    "level": "section",
+    "marker": "D",
+    "title": "Termination",
+    "printed_start": "536",
+    "chapter": "XII"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Remarriage",
+    "printed_start": "536",
+    "chapter": "XII"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Cohabitation",
+    "printed_start": "544",
+    "chapter": "XII"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "Death",
+    "printed_start": "546",
+    "chapter": "XII"
+  },
+  {
+    "level": "chapter",
+    "marker": "XIII",
+    "title": "AGREEMENTS",
+    "printed_start": "549",
+    "chapter": "XIII"
+  },
+  {
+    "level": "section",
+    "marker": "A",
+    "title": "Before(Antenuptial)",
+    "printed_start": "549",
+    "chapter": "XIII"
+  },
+  {
+    "level": "section",
+    "marker": "B",
+    "title": "After (Postnuptial)",
+    "printed_start": "559",
+    "chapter": "XIII"
+  },
+  {
+    "level": "section",
+    "marker": "C",
+    "title": "In Contemplation of Divorce",
+    "printed_start": "563",
+    "chapter": "XIII"
+  },
+  {
+    "level": "section",
+    "marker": "D",
+    "title": "Post-Divorce",
+    "printed_start": "568",
+    "chapter": "XIII"
+  },
+  {
+    "level": "chapter",
+    "marker": "XIV",
+    "title": "MODIFICATION",
+    "printed_start": "569",
+    "chapter": "XIV"
+  },
+  {
+    "level": "section",
+    "marker": "A",
+    "title": "Custody",
+    "printed_start": "569",
+    "chapter": "XIV"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Continuing Jurisdiction",
+    "printed_start": "569",
+    "chapter": "XIV"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "The Traditional Standard",
+    "printed_start": "573",
+    "chapter": "XIV"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "Where the Prior Decree Was Uncontested",
+    "printed_start": "580",
+    "chapter": "XIV"
+  },
+  {
+    "level": "subsection",
+    "marker": "4",
+    "title": "Relocations",
+    "printed_start": "583",
+    "chapter": "XIV"
+  },
+  {
+    "level": "section",
+    "marker": "B",
+    "title": "Child Support",
+    "printed_start": "587",
+    "chapter": "XIV"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Relevant Statutes",
+    "printed_start": "587",
+    "chapter": "XIV"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Continuing Jurisdiction",
+    "printed_start": "590",
+    "chapter": "XIV"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "Criteria Warranting Modification",
+    "printed_start": "592",
+    "chapter": "XIV"
+  },
+  {
+    "level": "subsection",
+    "marker": "4",
+    "title": "Prohibition on Retroactive Modification",
+    "printed_start": "593",
+    "chapter": "XIV"
+  },
+  {
+    "level": "section",
+    "marker": "C",
+    "title": "Visitation Rights",
+    "printed_start": "602",
+    "chapter": "XIV"
+  },
+  {
+    "level": "section",
+    "marker": "D",
+    "title": "Alimony",
+    "printed_start": "605",
+    "chapter": "XIV"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Continuing Jurisdiction",
+    "printed_start": "605",
+    "chapter": "XIV"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Criteria Warranting Modification",
+    "printed_start": "612",
+    "chapter": "XIV"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "Prohibition on Retroactive Modification",
+    "printed_start": "618",
+    "chapter": "XIV"
+  },
+  {
+    "level": "section",
+    "marker": "E",
+    "title": "Property",
+    "printed_start": "621",
+    "chapter": "XIV"
+  },
+  {
+    "level": "section",
+    "marker": "F",
+    "title": "Orders of Protection",
+    "printed_start": "634",
+    "chapter": "XIV"
+  },
+  {
+    "level": "chapter",
+    "marker": "XV",
+    "title": "ENFORCEMENT",
+    "printed_start": "635",
+    "chapter": "XV"
+  },
+  {
+    "level": "section",
+    "marker": "A",
+    "title": "Contempt",
+    "printed_start": "635",
+    "chapter": "XV"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Division of Property, Child Support & Alimony",
+    "printed_start": "635",
+    "chapter": "XV"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Ability to Comply",
+    "printed_start": "647",
+    "chapter": "XV"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "Visitation Rights",
+    "printed_start": "651",
+    "chapter": "XV"
+  },
+  {
+    "level": "section",
+    "marker": "B",
+    "title": "Wage Assignments, Professional Licenses, Drivers Licenses (Fishing Licenses, too!)",
+    "printed_start": "656",
+    "chapter": "XV"
+  },
+  {
+    "level": "section",
+    "marker": "C",
+    "title": "URESA, RURESA, UIFSA, & FFCCSSOA",
+    "printed_start": "658",
+    "chapter": "XV"
+  },
+  {
+    "level": "section",
+    "marker": "D",
+    "title": "Defenses",
+    "printed_start": "660",
+    "chapter": "XV"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Abatements and credits",
+    "printed_start": "660",
+    "chapter": "XV"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Denial of Visitation",
+    "printed_start": "662",
+    "chapter": "XV"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "Limitations",
+    "printed_start": "662",
+    "chapter": "XV"
+  },
+  {
+    "level": "subsection",
+    "marker": "4",
+    "title": "Estoppel and Laches",
+    "printed_start": "665",
+    "chapter": "XV"
+  },
+  {
+    "level": "subsection",
+    "marker": "5",
+    "title": "Counterclaims",
+    "printed_start": "667",
+    "chapter": "XV"
+  },
+  {
+    "level": "subsection",
+    "marker": "6",
+    "title": "Bankruptcy",
+    "printed_start": "668",
+    "chapter": "XV"
+  },
+  {
+    "level": "section",
+    "marker": "E",
+    "title": "Criminal Prosecutions",
+    "printed_start": "672",
+    "chapter": "XV"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Non-Support — Cruelty to Minor",
+    "printed_start": "672",
+    "chapter": "XV"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Childnapping",
+    "printed_start": "675",
+    "chapter": "XV"
+  },
+  {
+    "level": "section",
+    "marker": "F",
+    "title": "Attorney’s Fees",
+    "printed_start": "676",
+    "chapter": "XV"
+  },
+  {
+    "level": "section",
+    "marker": "G",
+    "title": "Habeas Corpus",
+    "printed_start": "677",
+    "chapter": "XV"
+  },
+  {
+    "level": "section",
+    "marker": "H",
+    "title": "Miscellaneous Enforcement Issues",
+    "printed_start": "678",
+    "chapter": "XV"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Enforcement by Others Benefitted by Decree",
+    "printed_start": "678",
+    "chapter": "XV"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Corporate Assets",
+    "printed_start": "679",
+    "chapter": "XV"
+  },
+  {
+    "level": "chapter",
+    "marker": "XVI",
+    "title": "TERMINATION OF PARENTAL RIGHTS",
+    "printed_start": "681",
+    "chapter": "XVI"
+  },
+  {
+    "level": "section",
+    "marker": "A",
+    "title": "Introduction",
+    "printed_start": "681",
+    "chapter": "XVI"
+  },
+  {
+    "level": "section",
+    "marker": "B",
+    "title": "Voluntary Termination of Parental Rights",
+    "printed_start": "684",
+    "chapter": "XVI"
+  },
+  {
+    "level": "section",
+    "marker": "C",
+    "title": "Adoption",
+    "printed_start": "685",
+    "chapter": "XVI"
+  },
+  {
+    "level": "section",
+    "marker": "D",
+    "title": "Abuse & Neglect Proceedings",
+    "printed_start": "697",
+    "chapter": "XVI"
+  },
+  {
+    "level": "section",
+    "marker": "E",
+    "title": "Indian Child Welfare Act (ICWA)",
+    "printed_start": "748",
+    "chapter": "XVI"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Selected Relevant Statutory Provisions(ICWA)",
+    "printed_start": "748",
+    "chapter": "XVI"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Triggering ICWA",
+    "printed_start": "754",
+    "chapter": "XVI"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "The Requirement of Notice",
+    "printed_start": "757",
+    "chapter": "XVI"
+  },
+  {
+    "level": "subsection",
+    "marker": "4",
+    "title": "Transfer - Matters of Concurrent Jurisdiction",
+    "printed_start": "760",
+    "chapter": "XVI"
+  },
+  {
+    "level": "subsection",
+    "marker": "5",
+    "title": "Exclusive Jurisdiction",
+    "printed_start": "768",
+    "chapter": "XVI"
+  },
+  {
+    "level": "subsection",
+    "marker": "6",
+    "title": "Complying with ICWA",
+    "printed_start": "773",
+    "chapter": "XVI"
+  },
+  {
+    "level": "section",
+    "marker": "F",
+    "title": "Role of the Attorney",
+    "printed_start": "792",
+    "chapter": "XVI"
+  },
+  {
+    "level": "chapter",
+    "marker": "XVII",
+    "title": "TORT LAW IN THE DOMESTIC RELATIONS ARENA",
+    "printed_start": "795",
+    "chapter": "XVII"
+  },
+  {
+    "level": "section",
+    "marker": "A",
+    "title": "Heart Balm Causes of Action",
+    "printed_start": "795",
+    "chapter": "XVII"
+  },
+  {
+    "level": "section",
+    "marker": "B",
+    "title": "Actions Between Unmarried Partners",
+    "printed_start": "796",
+    "chapter": "XVII"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Breach of Promise to Marry & Seduction",
+    "printed_start": "796",
+    "chapter": "XVII"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Transmission of Venereal Disease",
+    "printed_start": "796",
+    "chapter": "XVII"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "Stalking",
+    "printed_start": "797",
+    "chapter": "XVII"
+  },
+  {
+    "level": "subsection",
+    "marker": "4",
+    "title": "Other",
+    "printed_start": "803",
+    "chapter": "XVII"
+  },
+  {
+    "level": "section",
+    "marker": "C",
+    "title": "Between Spouses",
+    "printed_start": "803",
+    "chapter": "XVII"
+  },
+  {
+    "level": "section",
+    "marker": "D",
+    "title": "Third Parties",
+    "printed_start": "820",
+    "chapter": "XVII"
+  },
+  {
+    "level": "section",
+    "marker": "E",
+    "title": "Consortium",
+    "printed_start": "826",
+    "chapter": "XVII"
+  },
+  {
+    "level": "section",
+    "marker": "F",
+    "title": "New Theories",
+    "printed_start": "831",
+    "chapter": "XVII"
+  },
+  {
+    "level": "chapter",
+    "marker": "XVIII",
+    "title": "FEDERAL COURTS AND DOMESTIC RELATIONS CASES",
+    "printed_start": "839",
+    "chapter": "XVIII"
+  },
+  {
+    "level": "section",
+    "marker": "A",
+    "title": "Diversity of Citizenship",
+    "printed_start": "839",
+    "chapter": "XVIII"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Arrearage Cases",
+    "printed_start": "839",
+    "chapter": "XVIII"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Tort Cases",
+    "printed_start": "840",
+    "chapter": "XVIII"
+  },
+  {
+    "level": "section",
+    "marker": "B",
+    "title": "Arising Under Jurisdiction",
+    "printed_start": "841",
+    "chapter": "XVIII"
+  },
+  {
+    "level": "chapter",
+    "marker": "XIX",
+    "title": "MISCELLANEOUS",
+    "printed_start": "853",
+    "chapter": "XIX"
+  },
+  {
+    "level": "section",
+    "marker": "A",
+    "title": "Procedural Matters",
+    "printed_start": "853",
+    "chapter": "XIX"
+  },
+  {
+    "level": "subsection",
+    "marker": "1",
+    "title": "Soldiers and Sailors",
+    "printed_start": "853",
+    "chapter": "XIX"
+  },
+  {
+    "level": "subsection",
+    "marker": "2",
+    "title": "Use of Affidavits",
+    "printed_start": "856",
+    "chapter": "XIX"
+  },
+  {
+    "level": "subsection",
+    "marker": "3",
+    "title": "Findings of Fact and Conclusions of Law",
+    "printed_start": "857",
+    "chapter": "XIX"
+  },
+  {
+    "level": "subsection",
+    "marker": "4",
+    "title": "Opportunity to be Heard",
+    "printed_start": "858",
+    "chapter": "XIX"
+  },
+  {
+    "level": "subsection",
+    "marker": "5",
+    "title": "Tax Dependency Exemptions",
+    "printed_start": "858",
+    "chapter": "XIX"
+  },
+  {
+    "level": "subsection",
+    "marker": "6",
+    "title": "Effect of Appeal and Supersedeas Bond on Enforcement Power of Trial Court",
+    "printed_start": "860",
+    "chapter": "XIX"
+  },
+  {
+    "level": "subsection",
+    "marker": "7",
+    "title": "Lack of Medical Testimony as to Heart Condition",
+    "printed_start": "861",
+    "chapter": "XIX"
+  },
+  {
+    "level": "subsection",
+    "marker": "8",
+    "title": "Practice of Law by Part-time Magistrate",
+    "printed_start": "861",
+    "chapter": "XIX"
+  },
+  {
+    "level": "section",
+    "marker": "B",
+    "title": "Domestic Violence",
+    "printed_start": "862",
+    "chapter": "XIX"
+  },
+  {
+    "level": "section",
+    "marker": "C",
+    "title": "More on Bankruptcy and Creditors’ Rights",
+    "printed_start": "871",
+    "chapter": "XIX"
+  },
+  {
+    "level": "section",
+    "marker": "D",
+    "title": "Change of Name",
+    "printed_start": "879",
+    "chapter": "XIX"
+  }
+]
