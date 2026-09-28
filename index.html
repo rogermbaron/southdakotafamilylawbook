@@ -16,8 +16,10 @@
       <button data-view="book">The Book</button>
       <button data-view="search">Search</button>
       <button data-view="index">Original Index</button>
+      <button data-view="supplement">2014 Supplement</button>
       <button data-view="about">About</button>
       <button data-view="historical">Historical Archive</button>
+      <button data-view="contact">Contact</button>
     </nav>
   </div>
 </header>
@@ -41,6 +43,11 @@
         <button class="large" data-view="search">Search the Book</button>
       </div>
     </div>
+  </div>
+
+  <div class="card" style="margin-top:1.5rem;text-align:center;">
+    <img src="podium.png" alt="Roger Baron at a podium beside the 2010 Family Law book cover" style="max-width:100%;height:auto;border-radius:8px;">
+    <p class="muted" style="margin:.75rem 0 0;">Photo by Jun Park, Hooding Ceremony, May 2016</p>
   </div>
 
   <div class="historical-banner">
@@ -86,12 +93,13 @@
       <button class="link-row" data-view="book"><span>▢</span> View the chapter list <b>›</b></button>
       <button class="link-row" data-view="search"><span>⌕</span> Search the Book <b>›</b></button>
       <button class="link-row" data-view="index"><span>▤</span> Original Index (2010) <b>›</b></button>
+      <button class="link-row" data-view="supplement"><span>▤</span> Read the 2014 Supplement <b>›</b></button>
     </div>
     <div class="home-info author-info">
       <div class="kicker">About Roger M. Baron</div>
       <h2>About the Author</h2>
       <p>Roger M. Baron is the author of <em>Cases and Materials on Family Law for the South Dakota Lawyer</em>, Seventh Edition.</p>
-      <button class="text-link" data-view="about">Read more →</button>
+      <button class="text-link" data-view="contact">Contact Roger →</button>
     </div>
   </div>
 
@@ -121,6 +129,18 @@
   <div class="index-page-nav card"><h3>Original Index pages</h3><p class="muted">The Index occupies printed pages xxv–xlviii. Each button opens the preserved page.</p><div id="indexPageList" class="index-pages"></div></div><div id="indexResults"></div>
 </section>
 
+<section id="supplement" class="view hidden page-section">
+  <div class="section-kicker">HISTORICAL SUPPLEMENT</div>
+  <h2>2014 FAMILY LAW SUPPLEMENT</h2>
+  <p class="lead">This supplement was written in 2014 to provide updated legal materials relating to the 2010 edition. It is presented separately and is not incorporated into the preserved 2010 book.</p>
+  <div class="notice"><strong>Separate historical resource:</strong> The 2010 Seventh Edition remains preserved exactly as published. This 2014 Supplement is a separate PDF resource and does not alter the 2010 book.</div>
+  <div class="card" style="text-align:center;">
+    <h3>2014 Family Law Supplement</h3>
+    <p>Complete supplement with cover and Table of Contents.</p>
+    <a class="primary" href="2014_Family_Law_Supplement.pdf" target="_blank">Open the 2014 Supplement PDF</a>
+  </div>
+</section>
+
 <section id="about" class="view hidden">
   <div class="kicker">ARCHIVAL NOTE</div><h2>About the Historical Edition</h2>
   <div class="notice"><strong>The 2010 Master Rule</strong><br>The Seventh Edition is preserved exactly as published in 2010. No post-2010 legal developments, corrections, revisions, substitutions, or updates are incorporated into the book.</div>
@@ -139,12 +159,33 @@
     <article class="archive-card"><h3>Hooding Ceremony Comments by Roger Baron for Law Graduates, May 2016</h3><p>Remarks delivered by Roger Baron for the University of South Dakota law graduates at the May 2016 hooding ceremony.</p><a href="Hooding_Ceremony_Comments_Roger_Baron_May_2016.pdf" target="_blank">Open document</a></article>
   </div>
 </section>
+
+<section id="contact" class="view hidden page-section">
+  <div class="section-kicker">CONTACT</div>
+  <h2>Contact Roger M. Baron</h2>
+  <div class="home-lower">
+    <div class="home-info">
+      <h3>Roger M Baron</h3>
+      <p><strong>Professor Emeritus, University of South Dakota School of Law</strong></p>
+      <p><a href="mailto:Roger.Baron@usd.edu">Roger.Baron@usd.edu</a><br>
+      <a href="mailto:rogermbaron@gmail.com">rogermbaron@gmail.com</a></p>
+      <p>Roger and Claudia Baron reside in Rapid City, South Dakota, close to Mount Rushmore.</p>
+    </div>
+    <div class="home-info">
+      <img src="roger-claudia-sketch.jpg" alt="Roger and Claudia Baron" style="max-width:100%;height:auto;border-radius:8px;">
+    </div>
+    <div class="home-info">
+      <img src="roger-claudia-mount-rushmore.jpg" alt="Roger and Claudia Baron at Mount Rushmore" style="max-width:100%;height:auto;border-radius:8px;">
+      <p class="muted" style="margin-top:.75rem;">Photograph by grandson Snowden.</p>
+    </div>
+  </div>
+</section>
 </main>
 
 <footer>
   <div class="wrap footer-inner">
     <div class="footer-brand">SouthDakotaFamilyLawBook.com</div>
-    <div class="footer-nav" aria-label="Footer navigation"><button data-view="home">Home</button><button data-view="book">The Book</button><button data-view="search">Search</button><button data-view="index">Original Index</button><button data-view="about">About</button><button data-view="historical">Historical Archive</button></div>
+    <div class="footer-nav" aria-label="Footer navigation"><button data-view="home">Home</button><button data-view="book">The Book</button><button data-view="search">Search</button><button data-view="index">Original Index</button><button data-view="supplement">2014 Supplement</button><button data-view="about">About</button><button data-view="historical">Historical Archive</button><button data-view="contact">Contact</button></div>
     <p>Cases and Materials on Family Law for the South Dakota Lawyer · Seventh Edition · July 2010 · Roger M. Baron</p>
     <p class="footer-note">Historical Edition — preserved as published in 2010. The printed page number is the authoritative page reference.</p>
   </div>
