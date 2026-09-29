@@ -198,7 +198,7 @@
   var timer = setInterval(function () {
     if (window.goatcounter && window.goatcounter.visit_count) {
       clearInterval(timer);
-   window.goatcounter.visit_count({append: '#visitor-total', path: 'TOTAL', no_branding: true, style: 'div { display: inline; width: auto; height: auto; border: 0; background: transparent; color: inherit; padding: 0; margin: 0; } #gcvc-for { display: none; } #gcvc-views { font-weight: 600; }'});
+   window.goatcounter.visit_count({append: '#visitor-total', path: 'TOTAL'});
     } else if (++attempts > 50) {
       clearInterval(timer);
     }
