@@ -198,7 +198,7 @@
   var timer = setInterval(function () {
     if (window.goatcounter && window.goatcounter.visit_count) {
       clearInterval(timer);
-    window.goatcounter.visit_count({append: '#visitor-total'});
+    window.goatcounter.visit_count({append: '#visitor-total', path: 'TOTAL'});
     } else if (++attempts > 50) {
       clearInterval(timer);
     }
