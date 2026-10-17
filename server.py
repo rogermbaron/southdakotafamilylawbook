@@ -51,7 +51,13 @@ class H(SimpleHTTPRequestHandler):
    self.json({"page":None if not r else dict(zip(["printed_page","master_pdf_page","page_type","chapter_number","chapter_title","section_heading"],r))}); return
   super().do_GET()
  def json(self,obj):
-  raw=json.dumps(obj,ensure_ascii=False).encode(); self.send_response(200); self.send_header("Content-Type","application/json; charset=utf-8"); self.send_header("Content-Length",str(len(raw))); self.end_headers(); self.wfile.write(raw)
+    raw=json.dumps(obj,ensure_ascii=False).encode()
+  self.send_response(200)
+  self.send_header("Content-Type","application/json; charset=utf-8")
+  self.send_header("Access-Control-Allow-Origin","https://southdakotafamilylawbook.com")
+  self.send_header("Content-Length",str(len(raw)))
+  self.end_headers()
+  self.wfile.write(raw)
 
 port=int(os.environ.get("PORT","8000"))
 HTTPServer(("0.0.0.0",port),H).serve_forever()
